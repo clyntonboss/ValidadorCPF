@@ -34,7 +34,7 @@ https://fnazurevalidatorcpf025.azurewebsites.net/api/validarcpf
 **Exemplo GET:**
 
 ```
-https://fnazurevalidatorcpf025.azurewebsites.net/api/validarcpf?cpf=08231432795
+https://fnazurevalidatorcpf025.azurewebsites.net/api/validarcpf?cpf=77901566086
 ```
 
 Resposta esperada:
@@ -46,7 +46,7 @@ O número do CPF informado é Válido!
 **Exemplo GET com CPF inválido:**
 
 ```
-https://fnazurevalidatorcpf025.azurewebsites.net/api/validarcpf?cpf=08231432796
+https://fnazurevalidatorcpf025.azurewebsites.net/api/validarcpf?cpf=77901566087
 ```
 
 Resposta:
