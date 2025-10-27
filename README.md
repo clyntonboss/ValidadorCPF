@@ -1,10 +1,10 @@
-# Validador de CPF - Microserviço Serverless
+# Validador de CPF - Microsserviço Serverless
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: DIO](https://img.shields.io/badge/Plataforma-DIO-blue)](https://digitalinnovation.one/)
 
 Este projeto é parte do módulo **Microsoft Certification Challenge #4 - AZ-204**:
-**Segurança e Gerenciamento de API / Criando um Microserviço Serverless para Validação de CPF**
+**Segurança e Gerenciamento de API / Criando um Microsserviço Serverless para Validação de CPF**
 
 O curso está sendo realizado na plataforma **DIO (Digital Innovation One)**.
 
@@ -12,11 +12,11 @@ O curso está sendo realizado na plataforma **DIO (Digital Innovation One)**.
 
 ## **Descrição**
 
-Microserviço serverless desenvolvido com **Azure Functions** e **Node.js**, que valida CPFs enviados via query string ou corpo da requisição. Retorna mensagem indicando se o CPF informado é **Válido** ou **Inválido**.
+Microsserviço serverless desenvolvido com **Azure Functions** e **Node.js**, que valida CPFs enviados via query string ou corpo da requisição. Retorna mensagem indicando se o CPF informado é **Válido** ou **Inválido**.
 
 **Objetivos do projeto:**
 
-* Aprender criação de microserviços serverless
+* Aprender criação de microsserviços serverless
 * Gerenciamento de APIs
 * Segurança básica em endpoints públicos
 
@@ -127,7 +127,7 @@ app.http('ValidarCPF', {
 
 * **Curso:** Digital Innovation One (DIO)
 * **Módulo:** Microsoft Certification Challenge #4 - AZ-204
-* **Tópico:** Segurança e Gerenciamento de API / Microserviço Serverless
+* **Tópico:** Segurança e Gerenciamento de API / Microsserviço Serverless
 
 ---
 
