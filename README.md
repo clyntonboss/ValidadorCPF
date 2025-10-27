@@ -3,8 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: DIO](https://img.shields.io/badge/Plataforma-DIO-blue)](https://digitalinnovation.one/)
 
-Este projeto é parte do módulo **Microsoft Certification Challenge #4 - AZ-204**:
-**Segurança e Gerenciamento de API / Criando um Microsserviço Serverless para Validação de CPF**
+Este projeto é parte do módulo **Segurança e Gerenciamento de API / Criando um Microsserviço Serverless para Validação de CPF**
+Do Curso: **Microsoft Certification Challenge #4 - AZ-204**.
 
 O curso está sendo realizado na plataforma **DIO (Digital Innovation One)**.
 
