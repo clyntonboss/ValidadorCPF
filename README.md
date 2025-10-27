@@ -5,7 +5,7 @@
 
 Este projeto é parte do módulo **Segurança e Gerenciamento de API / Criando um Microsserviço Serverless para Validação de CPF**
 
-Do Curso: **Microsoft Certification Challenge #4 - AZ-204**.
+Curso: **Microsoft Certification Challenge #4 - AZ-204**.
 
 O curso está sendo realizado na plataforma **DIO (Digital Innovation One)**.
 
